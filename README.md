@@ -10,7 +10,7 @@ USE AT YOUR OWN RISK!!!
 
 1) Place config.txt and UTAR_Honour_List_Extract.py at same directory. 
 2) Edit config.txt. (optional)
-3) run UTAR_Honour_List_Extract.py
+3) Run UTAR_Honour_List_Extract.py
 
 ## Contributing
 
