@@ -4,6 +4,8 @@ Extract the names of UTAR students who achieved the Dean's/President's List.
 
 You are advised to edit config.txt to filter out unnecessary data and speeding up the process. 
 
+USE AT YOUR OWN RISK!!!
+
 ## Usage
 
 1) Place config.txt and UTAR_Honour_List_Extract.py at same directory. 
